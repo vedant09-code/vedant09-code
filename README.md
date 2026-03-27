@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi 👋, I'm Vedant
+
+## 🚀 About Me
+- 🌱 Learning Python & DSA
+- 💻 Interested in Backend Development
+- 📫 Reach me at: vedantpowar39@gmail.com
 
 <!--
 **vedant09-code/vedant09-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
