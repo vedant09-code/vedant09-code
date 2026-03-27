@@ -7,7 +7,7 @@
 
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedant09-code&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedant09-code&show_icons=true&theme=tokyonight)
 
 
 ## 🛠️ Skills
@@ -18,8 +18,10 @@
 
 
 ## 🎥 Fun Section
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Debug.+Repeat.;Building+My+Future;Learning+Everyday)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+GitHub;Python+Learner;Future+Developer)
 <!--
