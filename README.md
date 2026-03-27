@@ -23,7 +23,6 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-<h2 align="center">📊 My GitHub Activity</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedant09-code&label=Visitors&color=0e75b6&style=for-the-badge" />
