@@ -25,10 +25,10 @@
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant09-code&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant09-code&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true&title_color=000000)
 
 <p align="center">
-  ## 👀 Profile Views
+  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedant09-code&label=Visitors&color=0e75b6&style=for-the-badge" />
