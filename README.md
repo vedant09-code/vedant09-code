@@ -23,7 +23,10 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+GitHub;Python+Learner;Future+Developer)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant09-code&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vedant09-code&color=blue)
+
 <!--
 **vedant09-code/vedant09-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
